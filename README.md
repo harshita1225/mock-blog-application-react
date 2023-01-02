@@ -4,7 +4,7 @@
 
 ## Link
 
-- Live Site URL: [https://saadmalik200.github.io/mock-blog-application-react/](https://saadmalik200.github.io/mock-blog-application-react/)
+- Live Site URL: [https://harshita1225.github.io/mock-blog-application-react/](https://harshita1225.github.io/mock-blog-application-react/)
 
 ## Instructions for students:
 
